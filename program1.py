@@ -1,4 +1,4 @@
-print("Squares of numbers from 1 to 10 - Branch 2")
+print("Squares of numbers from 1 to 10")
 
 for i in range(1, 11):
-    print(i ** 2)
+    print("Square of", i, "is", i * i)
